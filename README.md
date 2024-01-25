@@ -26,8 +26,8 @@
 
 
 <!--Intro start-->
-- Rookie
-- Learning to code for fruther reaserch
+- An average rookie
+- Learning to code for further reaserch
 
 - 📫 Feel free to reach me out **krishnaaasrith@gmail.com**
 <!--Intro end-->
