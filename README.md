@@ -62,10 +62,3 @@ I am a **4th-year BS-MS Dual Degree undergraduate** at **IISER Bhopal**, majorin
 * **Gravitational Waves:** Exploring the intersection of radio and GW astronomy (Multi-messenger astronomy).
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aasrith07&show_icons=true&theme=dracula&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasrith07&layout=compact&theme=dracula&hide_border=true" />
-</div>
