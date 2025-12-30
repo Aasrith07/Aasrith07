@@ -1,52 +1,71 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Krishna Aasrith</h1></summary>
-  </ul>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"></h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- An average rookie
-- Learning to code for further reaserch
-
-- 📫 Feel free to reach me out **krishnaaasrith@gmail.com**
-<!--Intro end-->
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/krishna-aasrith-a7a4042aa/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<!-- <a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>  -->
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<!-- <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a> -->
-<!-- <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
+  <br>
+  
+  <h1>Hi, I'm Krishna Aasrith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  
+  <h3>Physics Major | Aspiring Radio Astronomer | Data Science Enthusiast</h3>
+  
+  <p>
+    <i>"Exploring the fundamental physics of Compact Objects and Explosive Transients through observations and numerical simulations."</i>
+  </p>
+
+  <a href="https://www.linkedin.com/in/krishna-aasrith-a7a4042aa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:krishnaaasrith@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔭 About Me
+
+I am a **4th-year BS-MS Dual Degree undergraduate** at **IISER Bhopal**, majoring in Physics with a strong foundation in Mathematics and Data Science. My research focus lies in **Observational Astronomy**, particularly in analyzing radio emission from supernovae and understanding compact objects.
+
+* **Current Work:** Analyzing radio emission from supernovae (SN2004dk) using Radio Interferometry techniques.
+* **Goal:** To pursue a PhD in investigating the physics of explosive transients using numerical simulations and observational data.
+* **College Work:** I co-founded a local marketplace called *Vendoloco* that is a buy and sell website for students locally in their colleges, it also connects them with local shops and services!
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **Programming & Scripting**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
 </p>
 
+### **Scientific Libraries & Tools**
+<p>
+  <img src="https://img.shields.io/badge/CASA_Software-003B6F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astropy-FF7F00?style=for-the-badge&logo=astropy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
 
+---
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🌌 Research Interests
 
-----------------------------------------------------------------------
+* **Radio Astronomy:** Investigating energetic transient phenomena and radio detection techniques.
+* **Compact Objects:** Studying the fundamental physics of black holes and neutron stars.
+* **Data Analysis:** Using statistical methods (like MCMC) to model astrophysical data.
+* **Gravitational Waves:** Exploring the intersection of radio and GW astronomy (Multi-messenger astronomy).
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aasrith07&show_icons=true&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasrith07&layout=compact&theme=dracula&hide_border=true" />
+</div>
