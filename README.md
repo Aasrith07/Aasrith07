@@ -3,7 +3,7 @@
   
   <br>
   
-  <h1>Hi, I'm Krishna Aasrith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1>Hi, I'm Krishna Aasrith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
   <h3>Physics Major | Aspiring Radio Astronomer | Data Science Enthusiast</h3>
   
